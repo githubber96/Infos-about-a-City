@@ -1,0 +1,12 @@
+Pankow	409335
+Mitte	385748
+Tempelhof- Schöneberg	350984
+Charlottenburg- Wilmersdorf	343592
+Neukölln	329917
+Steglitz- Zehlendorf	310071
+Lichtenberg	294201
+Friedrichshain- Kreuzberg	290386
+Treptow- Köpenick	273689
+Marzahn- Hellersdorf	269967
+Reinickendorf	266408
+Spandau	245197

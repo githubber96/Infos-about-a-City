@@ -1,0 +1,21 @@
+Neustadt	45449
+Hemelingen	43718
+Schwachhausen	39052
+Osterholz	37829
+Gröpelingen	37083
+Obervieland	36476
+Vegesack	35083
+Burglesum	33304
+Blumenthal	32399
+Walle	30889
+Huchting	30703
+Östliche Vorstadt	29404
+Vahr	27045
+Horn-Lehe	26469
+Findorff	25886
+Mitte	17947
+Woltmershausen	14065
+Oberneuland	13579
+Ostertor (Ortsteil)	8410
+Steintor (Ortsteil)	7355
+Häfen	118

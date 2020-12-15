@@ -1,0 +1,7 @@
+Wandsbek	441015
+Hamburg-Nord	314595
+Hamburg-Mitte	301546
+Altona	275265
+Eimsbüttel	267053
+Harburg	169426
+Bergedorf	130260

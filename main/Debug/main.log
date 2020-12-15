@@ -1,0 +1,47 @@
+﻿  City.cpp
+C:\Users\Arbeit\Desktop\Infos about a City\main\City.cpp(51,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(281,33): warning C4244: "return": Konvertierung von "double" in "size_t", möglicher Datenverlust
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(315): message : Siehe Verweis auf die gerade kompilierte Instanziierung "size_t VariadicTable<std::string,int>::sizeOfData<int>(const T &,void *)" der Funktions-Vorlage.
+          with
+          [
+              T=int
+          ]
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(316): message : Siehe Verweis auf die gerade kompilierte Instanziierung "size_t VariadicTable<std::string,int>::sizeOfData<int>(const T &,void *)" der Funktions-Vorlage.
+          with
+          [
+              T=int
+          ]
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(315): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void VariadicTable<std::string,int>::size_each<1,std::tuple<std::string,int>&,void>(TupleType,std::vector<unsigned int,std::allocator<unsigned int>> &,std::integral_constant<size_t,1>)" der Funktions-Vorlage.
+          with
+          [
+              TupleType=std::tuple<std::string,int> &
+          ]
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(324): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void VariadicTable<std::string,int>::size_each<1,std::tuple<std::string,int>&,void>(TupleType,std::vector<unsigned int,std::allocator<unsigned int>> &,std::integral_constant<size_t,1>)" der Funktions-Vorlage.
+          with
+          [
+              TupleType=std::tuple<std::string,int> &
+          ]
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(332): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void VariadicTable<std::string,int>::size_each<0,std::tuple<std::string,int>&,void>(TupleType,std::vector<unsigned int,std::allocator<unsigned int>> &,std::integral_constant<size_t,0>)" der Funktions-Vorlage.
+          with
+          [
+              TupleType=std::tuple<std::string,int> &
+          ]
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(333): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void VariadicTable<std::string,int>::size_each<0,std::tuple<std::string,int>&,void>(TupleType,std::vector<unsigned int,std::allocator<unsigned int>> &,std::integral_constant<size_t,0>)" der Funktions-Vorlage.
+          with
+          [
+              TupleType=std::tuple<std::string,int> &
+          ]
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(340): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void VariadicTable<std::string,int>::size_each<std::tuple<std::string,int>&>(TupleType,std::vector<unsigned int,std::allocator<unsigned int>> &)" der Funktions-Vorlage.
+          with
+          [
+              TupleType=std::tuple<std::string,int> &
+          ]
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(353): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void VariadicTable<std::string,int>::size_each<std::tuple<std::string,int>&>(TupleType,std::vector<unsigned int,std::allocator<unsigned int>> &)" der Funktions-Vorlage.
+          with
+          [
+              TupleType=std::tuple<std::string,int> &
+          ]
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(340): message : beim Kompilieren der Klasse Vorlage-Memberfunktion "void VariadicTable<std::string,int>::size_columns(void)"
+C:\Users\Arbeit\Desktop\Infos about a City\main\Table.h(85): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void VariadicTable<std::string,int>::size_columns(void)" der Funktions-Vorlage.
+C:\Users\Arbeit\Desktop\Infos about a City\main\City.cpp(49): message : Siehe Verweis auf die gerade kompilierte Klasse Vorlage-Instanziierung "VariadicTable<std::string,int>".
+  main.vcxproj -> C:\Users\Arbeit\Desktop\Infos about a City\Debug\main.exe

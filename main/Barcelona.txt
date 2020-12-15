@@ -1,0 +1,10 @@
+Ciutat Vella	115000
+Eixample	265000
+Gracia 120000
+Horta - Guinardo	170000
+Les Corts	80000
+Nou Barris	160000
+Sant Andreu	145000
+Sant Marti	225000
+Sants - Montjuic 180000
+Sarria - Sant Gervasi	140000
